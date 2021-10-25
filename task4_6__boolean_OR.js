@@ -1,7 +1,5 @@
 // Task 4.6:  check two given numbers and print true if one of the number is 50
 // or if their sum is 50
-
-
 const prompt = require('prompt-sync')({sigint: true});
 
 const num1 = prompt('Please enter 1st number: ');
